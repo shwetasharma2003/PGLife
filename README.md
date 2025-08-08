@@ -24,8 +24,26 @@
 ---
 
 ## 📸 Screenshots
+Home Page 
+<img width="1901" height="912" alt="Screenshot 2025-08-08 114202" src="https://github.com/user-attachments/assets/38a6e756-16da-4317-91ce-e26e5b11f993" />
+Sign Up page
+<img width="1910" height="918" alt="Screenshot 2025-08-08 114223" src="https://github.com/user-attachments/assets/f8cd9185-bddb-46f9-b132-ce17093a49a5" />
+Log In Page
+<img width="1908" height="914" alt="Screenshot 2025-08-08 114248" src="https://github.com/user-attachments/assets/96cab048-7da5-4f9a-8f65-6eea3d4d8299" />
+Home Page->Delhi 
+<img width="1884" height="915" alt="Screenshot 2025-08-08 114403" src="https://github.com/user-attachments/assets/41afc0e2-45df-4aba-b0d1-9625690f08fe" />
+Home Page-> Mumbai
+<img width="1882" height="919" alt="Screenshot 2025-08-08 114419" src="https://github.com/user-attachments/assets/91f7b1cf-4f9e-426f-aa85-eefda872e8b5" />
 
-*(Add screenshots of your homepage, login page, PG listing page, etc., here if available.)*
+Dashboard Page
+<img width="1903" height="911" alt="Screenshot 2025-08-08 114549" src="https://github.com/user-attachments/assets/4b0cbca4-7561-4e20-acbb-34d3f5cdb8fb" />
+
+
+
+
+
+
+
 
 ---
 
