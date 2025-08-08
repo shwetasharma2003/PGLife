@@ -2,9 +2,7 @@
 
 ## 📝 Project Description
 
-PF Life is a web-based platform developed as part of my Internshala training project to help users manage their **personal finances**, **savings**, and **goals** in an interactive and secure manner. It allows users to track expenses, set financial goals, and gain insights through visual reports.
-
-This project showcases front-end and back-end development skills using modern web technologies.
+PG Life is a web application designed to help students and working professionals find suitable paying guest (PG) accommodations in various cities. The platform allows users to browse available PGs by city, view property details, and sign up or log in to manage their preferences. Built using HTML, CSS, Bootstrap, PHP, and MySQL.
 
 ---
 
