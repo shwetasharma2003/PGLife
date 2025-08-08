@@ -1,33 +1,36 @@
-# PF Life – Personal Finance Life Tracker
+# 🏠 PG Life
 
-## 📝 Project Description
-
-PG Life is a web application designed to help students and working professionals find suitable paying guest (PG) accommodations in various cities. The platform allows users to browse available PGs by city, view property details, and sign up or log in to manage their preferences. Built using HTML, CSS, Bootstrap, PHP, and MySQL.
+**PG Life** is a web-based platform that helps students and working professionals find suitable Paying Guest (PG) accommodations in major cities. The application provides an easy-to-use interface to browse listings, view PG details, and manage user sessions.
 
 ---
 
-## 💡 Features
+## 🔧 Technologies Used
 
-- 🧾 Add, view, and manage income and expenses
-- 📊 Dashboard with monthly and yearly statistics
-- 🎯 Set and track financial goals
-- 🔐 User authentication and session management
-- 🌐 Responsive design for desktop and mobile
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL
-- **Styling Framework**: Bootstrap (optional)
-- **Tools**: VS Code, XAMPP
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL
+- **Tools:** XAMPP / WAMP for local development
 
 ---
 
-## 🔧 Setup Instructions
+## 🔑 Features
 
-1. Clone the repository:
+- 🔍 **City-wise PG Search** – Browse PG accommodations by selecting cities.
+- 🏠 **Property Listings** – View PG details such as rent, amenities, and images.
+- 👤 **User Authentication** – User sign-up and login functionality with session handling.
+- 💾 **Database Integration** – Store and fetch PG/user data using MySQL.
+- 📱 **Responsive UI** – Mobile-friendly design using Bootstrap.
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of your homepage, login page, PG listing page, etc., here if available.)*
+
+---
+
+## 🚀 How to Run the Project Locally
+
+1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/pf-life.git
+   git clone https://github.com/yourusername/pg-life.git
